@@ -26,7 +26,7 @@ SECRET_KEY = 'e45mb##d)ui+vt_il%0$slw@v$wn#@4opzk^2f(hb5s-%&d#@t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['blakeman260-django-todo.herokuapp.com']
 
 
 # Application definition
